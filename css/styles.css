@@ -179,7 +179,7 @@ display:flex;
 
 /* Contact section background image */
 .contact {
-  background: linear-gradient(120deg, rgba(201,139,90,0.10), rgba(138,75,35,0.08)), url('/assets/cinnamon_q.webp');
+  background: linear-gradient(120deg, rgba(201,139,90,0.10), rgba(138,75,35,0.08)), url('/assets/cinnamon_q.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
