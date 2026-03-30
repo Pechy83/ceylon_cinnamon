@@ -74,7 +74,7 @@
         "Consistent supply"
       ],
       image: "assets/H1_web.jpg",
-      alt: " H1 cinnamon quills",
+      alt: "H1 cinnamon quills",
       moq: "100 kg",
       packaging: "Export packaging (Bales / Cartons)",
       eureadydocumentation: "COA, lab reports and export documents available"
@@ -86,7 +86,7 @@
       specs: [
         "Whole quills",
         "Various sizes available",
-        "tea bags, extraction"
+        "Suitable for tea bags and extraction"
       ],
       image: "assets/quillings_web.jpg",
       alt: "Cinnamon quillings",
